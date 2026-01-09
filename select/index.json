@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Over \"Quartzer\"（TV size）『仮面ライダージオウ』主題歌",
+  "base_artist": "Shuta Sueyoshi feat. ISSA",
+  "createdAt": "2026-01-09T06:30:08.641782Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Over \"Quartzer\"（TV size）『仮面ライダージオウ』主題歌",
+      "artist": "Shuta Sueyoshi",
+      "has_synced": true,
+      "path": "select/01_Over__Quartzer_(TV_size)『仮面ライダージオウ』主題歌_Shuta_Sueyoshi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Over \"Quartzer\"(TVOP ver.)",
+      "artist": "Shuta Sueyoshi feat. ISSA",
+      "has_synced": false,
+      "path": "select/pl_01_Over__Quartzer_(TVOP_ver.)_Shuta_Sueyoshi_feat._ISSA.txt"
+    }
+  ]
+}
